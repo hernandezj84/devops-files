@@ -1,0 +1,206 @@
+credentials:
+  system:
+    domainCredentials:
+    - credentials:
+      - usernamePassword:
+          description: "docker hub account"
+          id: "dockerhub"
+          password: "{AQAAABAAAAAgcHv22hmo7Oj9hQLcGVgT7zmc5EBxDr8FnQJulLQHM1eZfEHJfRigAkWfnLSAaWTA}"
+          scope: GLOBAL
+          username: "devopsuae"
+      - basicSSHUserPrivateKey:
+          description: "GitHub keys for private repos"
+          id: "GitHub"
+          privateKeySource:
+            directEntry:
+              privateKey: "{AQAAABAAAApADdzjy+iQsPd+DqkSOOfYCUrrjQiugYzCHFDo1XNzkWGV4eSUajsN1SHXtiQJQqGh+trqyr/vg3HEFkAKgB5T8kL2E/FYl6eR4W+CqctMgE+WQEAzHfvAK4JLtGQA848CSTrkAjJTHQyOT1Jq3ZHLd8aBsMihqBYJs+AeKax4xIpcVSd5VJMiXgMZ7zklxoDtGlXzNzL10DEw3sWn8iffeaHBBeUUnMNe1mX47jzngMO8ohavwFBHzQWW3CSe0lThb19su7+ft9JKUCJ3YkiKVUztwNwn560JYJW5KZX5W4Sd2168mIo/R1b1ql6hPf6EsiTIvSmwnTzw9Lsxx6Gp6amOB302suL6x4UHrOqC1qLWuXk3Ak99bHn6rj6ehtcKRhf5VyiMAPpmph7qRuupVx6c/nKgBHbvhg1YiG4/Ls3fXnQDbbX7WXPX66y9c0IYkqANHot2YJlte8aSABV6QnjTQkMZePABFeJicCJaU4DDiALeHo78FAldleu8T8YyK6fCUwugxuCaGV2LxkQtRXfN9U2Ye97rzNJb8yL0hVNcXE2yUDhqQMK8qL5LoENDggh2qbuNzdTZIk5fYVBPXI7HFOwnblddrz+VZPG8KCTV7jnme+SWq4/nVI+n7rlc8dVSOeQN7O+wsjFR9vklZKrTDCVP4aOhnybXUtGOQO1a0NsDbyCJnVmPRitMWlDmz8eEHALN6N75ypmxhB621wqMrQo1YzGbcACuY/wKeVDxoNzu5lX7z3hxngLdk9xIAikoG7Pqg+7RPFhTeAB9UaZxN+rgLyrQoJwtCDyMN3C/4fMenmxpA4+cu8ehplEv02xhUoxNZgfhauv5tBmvgJ9utu3RLTu2QkaCj6qT1evGC76ddxeb2/qfdW0N6cN2TaFAD564MgW6ZeZGDjJasOFg+jr2cFVm1zvvAfQPH03LzQm001rOuDPSBYBQkvZ2bmHxSEch+dEU0U0K7MNTyTI2USinZ4t+g7IsI9r1pTCHqRK23Ao5clRGOrkOEm1yR9NnZMQtKftQ6CHvIbu0VL8DI51YMSqIWEZ/+0W2yoMe3T2g1hAcWdo5TwzSYsru3ROtUWFN3pKxUa+pT2a/JlYE3CacxQ1CqS0MK7vENV+XOrHpQAIpHDiKuhdbw1GwP20bBbjQhAU8ac7/mKUKkAmi4zTNi8ZftAPdo9waVtItexauXdOVnmZi6SnXfomwZqibsyvCldcnY8QfXXPVBryZv5VbO/urNBTerEP8AMnT/OeivktY6a0eWLRTvtWRSN3oyBOqX0SoOkCDTBBzWI2OYkwdPs84JeF9UHsajCsm3kitUvtSVwZf2sKqQ11URnnS4q7NPUXCXrKioUtfvtvQY+DmsmmIQJGIeNB1VBdxHjc2Msx7yb62FCZODCACqlC/mHW1qZ79VWUf2q06gP3zJK9m1D3vN/utGD1n80CQHr9HQziFAbrRjzmeWqetk5WJHiYCm7UcWt/0EDjJUyHm7N3q2lhm7nVkuSggc2ETYtFU0ubj4XhwkZBo7PTAgFxLuP5qqKahq+E0nZq/9gvATMIEo2l+pISPd33kRCj0mXZJYAj2ZC24v69aLlqZMxlxm4EdeqeQZ9ZZGxngi7UTO1AoZSgL0pefSjnibJOs8MeRTSoyYFaBEH57HcqgKBFQZWF0rqkoj82rqoKRVmT+3uUuwvxZHm0dNZbKWdAxDhpq/Frw6EWy0UpCHBSKdDDOlEhWJ3CZbTMGWMUj+px0g5gE1RtJkL2Nh9fbwykEo3fVyRdLo3I0qxc8kb3kKKUi7gEMkyr3uIMX8A202iTsV6gk/0bvY1ghXYfPYCuTpVhgkoW5YLwgl2JTdngaYTSSgAQIyIqMvDRAsGW5wv0awWKTuBLYv8qqNErG6LFVPgJCHDRGycg3fq2b/Z7j9GnsNYPvQQsX0/S2SX27O2Gh+rkF9NJUgJkFYnKAbxtt3LJdviSY6WXSoaNiLgNgC1e+Ea8MPM4EbMNd6hXr44tai9YeDQQUTZHioRTnaE3Aiw9eZG9AF7/PEOVdN1FUP7r8pGwbbQhN26BsYRK9uiQkXMerS513uk7AjTwAoA043hfAA7vU2CJW3IAxIhO3+7+jerJG28hzmOB2ESUBtFJFGFIG/FuCQ6yKZygGrm1RHzpm1VGnAlI2VQvT2kJkJjbSHFKb5i+//lNXpYmF04isBCgenJM7iVf3YEj8UBbU2KB4FsIm4B+P3hgs/R59hhba6ow5I1mtGHK3/1eY+6ViSZ7lgSN6mpNDhJTZ8DEORm9McDDA02gkVCOdXmV0lb7G/37mNAx3klItHuf3Tk7FPAuYclNAGQBaajAcUdstB99zbayvP7ufVWh0g9z/0rsHtAvRXs1EKg8IT1v1ZQc8uXNQRV+egMeB6Myg117I5k0Ho6TH3/FQhXDz8d4BQeg/nv9tTf5PkQ2EaAEAlJmUULyODULMuJ5cT/l0v8HAKX5M7iDTKYaCQfWXUoFMu6ivc56hpFQQhNOPSE7fdflwec2r9+nDDtaFrYcXTDe8XwMmVnRhK1FcREWw7RNWW+M9nKzrtABLyOIWMabpQKSkF/04efbycOjOOz4J2Am3ypVrYIP9r73XbPcEKJi1zCTxp8LRYV0yYheZLPS47qYRFYQF8zxCWwi4qCIJk4OOLG612lMHutv9DiOJO4YKnrNDYR57d7nSYtnG6lFfuk5MR6lpKFNWs+d0vf/moFy4v+6LDaq18s7X4fwLhD0phtopCV7nSV/wDG7oj5tAwzdSOAYXmK2defGwzJnY23P4wCPzycnGbVvSBYz7ewTP6lt9kmLR4TrYvZ/Mw7PZi3hxBBFR5LpIwZNhMZ1I5Oe+g9eR3HrM+u7edb/xozOVdvAi2u0fAFwt52d+FW0iQo1gfGh8LIUe2Zeex8oCrI34TL+x6ELxnKKXzPscBepD++0qrVQhOUC8lCeoILkMCyKB3c6OOnp/xjYh2i328uJ60FkFmuUewq6OHd2BLRJLIulihJAvBMyHXLxatiWyzNfzbiTVVALWNIfYDJRx2ReGHw4m0BDZ+hmffP5Y+nXBIdpqTkD2e1wj04oFLBdUP67mcrLt18Wv6Kg16EgxYAsDgmQ6+ER/5Y4siGQtTOLy4nI6GV+uA5o7ikF5cBi3fwDMZr4mrN2hbX7bk8aN6Z375LLz1lpXO0d4rUeqlXmSNb+DEuh4z7aoD18gBhetsglrLK5xSvenQTUXOGxZjPrxgoPUGNouDREVtw0eM0wTTCIk14yEx+6UYHL+qKG+B2Qmls9ONsqerUmzVuTRUUDJndnYfqxtGToEqJsh8H7NQzDbgeMVlIXz2FC2LAIm4e7z/9RCimdP6mOnm502CxsQrhkwrTb45dfe8mGvqzosOp2umZwaYV87o+E1pBBAmLvpJOH2UOWOD3vieMcM8tzwzxQN5p0eJkMj9fZMvUTD3PbcNizuVVHzZbannRlCxrMYvabOOg+j8mdjPnqePiwL/X2VPruV4kmHvulhVkzk}"
+          scope: GLOBAL
+          username: "Jenkins"
+jenkins:
+  agentProtocols:
+  - "JNLP4-connect"
+  - "Ping"
+  authorizationStrategy:
+    loggedInUsersCanDoAnything:
+      allowAnonymousRead: false
+  clouds:
+  - kubernetes:
+      containerCap: 10
+      containerCapStr: "10"
+      jenkinsTunnel: "jenkins-dev-code-agent.dev-code.svc.cluster.local:50000"
+      jenkinsUrl: "http://jenkins-for-test.jenkins-test.svc.cluster.local:8080-"
+      name: "kubernetes"
+      namespace: "dev-code"
+      podLabels:
+      - key: "jenkins/jenkins-dev-code-jenkins-agent"
+        value: "true"
+      serverUrl: "https://kubernetes.default"
+      templates:
+      - containers:
+        - args: "^${computer.jnlpmac} ^${computer.name}"
+          command: "sleep"
+          envVars:
+          - envVar:
+              key: "JENKINS_URL"
+              value: "http://jenkins-for-test.jenkins-test.svc.cluster.local:8080-/"
+          image: "jenkins/inbound-agent:4.11.2-4"
+          livenessProbe:
+            failureThreshold: 0
+            initialDelaySeconds: 0
+            periodSeconds: 0
+            successThreshold: 0
+            timeoutSeconds: 0
+          name: "jnlp"
+          resourceLimitCpu: "512m"
+          resourceLimitMemory: "512Mi"
+          resourceRequestCpu: "512m"
+          resourceRequestMemory: "512Mi"
+          workingDir: "/home/jenkins/agent"
+        id: "1d5e7358aa57e8d8fb5290164936179288c8018247360a8e6c5bbd48e05cbb40"
+        label: "jenkins-dev-code-jenkins-agent"
+        name: "default"
+        nodeUsageMode: NORMAL
+        podRetention: "never"
+        serviceAccount: "default"
+        slaveConnectTimeout: 100
+        slaveConnectTimeoutStr: "100"
+        yamlMergeStrategy: "override"
+      - containers:
+        - alwaysPullImage: true
+          args: "^${computer.jnlpmac} ^${computer.name}"
+          command: "/usr/local/bin/jenkins-agent"
+          envVars:
+          - envVar:
+              key: "JENKINS_URL"
+              value: "http://jenkins-for-test.jenkins-test.svc.cluster.local:8080-/"
+          image: "devopsuae/rust-agent:1"
+          livenessProbe:
+            failureThreshold: 0
+            initialDelaySeconds: 0
+            periodSeconds: 0
+            successThreshold: 0
+            timeoutSeconds: 0
+          name: "jnlp"
+          workingDir: "/home/jenkins/agent"
+        - args: "9999999"
+          command: "sleep"
+          image: "jessfraz/img"
+          livenessProbe:
+            failureThreshold: 0
+            initialDelaySeconds: 0
+            periodSeconds: 0
+            successThreshold: 0
+            timeoutSeconds: 0
+          name: "img-agent"
+          ttyEnabled: true
+          workingDir: "/home/jenkins/agent"
+        - args: "9999999"
+          command: "sleep"
+          image: "docker:latest"
+          livenessProbe:
+            failureThreshold: 0
+            initialDelaySeconds: 0
+            periodSeconds: 0
+            successThreshold: 0
+            timeoutSeconds: 0
+          name: "docker-agent"
+          ttyEnabled: true
+          workingDir: "/home/jenkins/agent"
+        id: "d8aa68cc-d456-4468-8923-d910cd201180"
+        label: "rust-agent"
+        name: "rust-agent"
+        volumes:
+        - hostPathVolume:
+            hostPath: "/var/run/docker.sock"
+            mountPath: "/var/run/docker.sock"
+        yamlMergeStrategy: "override"
+  crumbIssuer:
+    standard:
+      excludeClientIPFromCrumb: true
+  disableRememberMe: false
+  labelAtoms:
+  - name: "built-in"
+  - name: "jenkins-dev-code-jenkins-agent"
+  - name: "rust-agent"
+  markupFormatter: "plainText"
+  mode: NORMAL
+  myViewsTabBar: "standard"
+  numExecutors: 0
+  primaryView:
+    all:
+      name: "all"
+  projectNamingStrategy: "standard"
+  quietPeriod: 5
+  remotingSecurity:
+    enabled: true
+  scmCheckoutRetryCount: 0
+  securityRealm:
+    local:
+      allowsSignup: false
+      enableCaptcha: false
+      users:
+      - id: "admin"
+        name: "Jenkins Admin"
+        properties:
+        - "apiToken"
+        - "mailer"
+        - "myView"
+        - preferredProvider:
+            providerId: "default"
+        - "timezone"
+  slaveAgentPort: 50000
+  updateCenter:
+    sites:
+    - id: "default"
+      url: "https://updates.jenkins.io/update-center.json"
+  views:
+  - all:
+      name: "all"
+  viewsTabBar: "standard"
+globalCredentialsConfiguration:
+  configuration:
+    providerFilter: "none"
+    typeFilter: "none"
+security:
+  apiToken:
+    creationOfLegacyTokenEnabled: false
+    tokenGenerationOnCreationEnabled: false
+    usageStatisticsEnabled: true
+  sSHD:
+    port: -1
+unclassified:
+  buildDiscarders:
+    configuredBuildDiscarders:
+    - "jobBuildDiscarder"
+  casCGlobalConfig:
+    configurationPath: "/var/jenkins_home/casc_configs/jcasc-default-config.yaml"
+  fingerprints:
+    fingerprintCleanupDisabled: false
+    storage: "file"
+  gitSCM:
+    addGitTagAction: false
+    allowSecondFetch: false
+    createAccountBasedOnEmail: false
+    disableGitToolChooser: false
+    hideCredentials: false
+    showEntireCommitSummaryInChanges: false
+    useExistingAccountWithSameEmail: false
+  junitTestResultStorage:
+    storage: "file"
+  location:
+    adminAddress: "address not configured yet <nobody@nowhere>"
+    url: "http://jenkins-for-test:8080/"
+  mailer:
+    charset: "UTF-8"
+    useSsl: false
+    useTls: false
+  pollSCM:
+    pollingThreadCount: 10
+tool:
+  git:
+    installations:
+    - home: "git"
+      name: "Default"
+  mavenGlobalConfig:
+    globalSettingsProvider: "standard"
+    settingsProvider: "standard"
